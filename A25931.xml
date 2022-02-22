@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of high treason and other high misdemeanours against the Lord Kemolton, Master Densill Hollis, Master Pym, Sir Arthur Hasilrige, Master Hamden, and Master Stroude with the charge of the impeachment of the twelve bishops accused of high treason for preferring a petition and making a protestation to the subverting the fundamentall lawes and being of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25931</idno>
+            <idno type="STC">Wing A3848</idno>
+            <idno type="STC">ESTC R26487</idno>
+            <idno type="EEBO-CITATION">09479814</idno>
+            <idno type="OCLC">ocm 09479814</idno>
+            <idno type="VID">43247</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43247)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1299:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of high treason and other high misdemeanours against the Lord Kemolton, Master Densill Hollis, Master Pym, Sir Arthur Hasilrige, Master Hamden, and Master Stroude with the charge of the impeachment of the twelve bishops accused of high treason for preferring a petition and making a protestation to the subverting the fundamentall lawes and being of Parliament.</title>
+               </titleStmt>
+               <extent>[5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Hammond,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Manchester, Edward Montagu, --  Earl of, 1602-1671.</term>
+               <term>Holles, Denzil Holles, --  Baron, 1599-1680.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43247:1"/>
+            <p>ARTICLES of High Treaſon, and other high Miſdemeanours, againſt the Lord <hi>Kemolton,</hi> Maſter <hi>Denſill Hollis,</hi> Maſter <hi>Pym,</hi> Sir <hi>Arthur Haſilrige,</hi> Maſter <hi>Hamden,</hi> and Maſter <hi>Stroude.</hi>
+            </p>
+            <p>WITH THE CHARGE OF THE IMPEACHMENT OF THE <hi>TVVELVE BISHOPS,</hi> Accuſed of High Treaſon, for preferring a Petition, and making a Proteſtation, to the ſubverting the Fundamentall Lawes and Being of <hi>Parliaments.</hi>
+            </p>
+            <p>Printed for <hi>Iohn Hamond,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="article">
+            <pb facs="tcp:43247:2"/>
+            <pb facs="tcp:43247:2"/>
+            <head>ARTICLES OF High Treaſon, and other high Miſdemeanors, againſt the Lord <hi>Kemolton,</hi> Maſter <hi>Denſill Hollis,</hi> Maſter <hi>Pym,</hi> Sir <hi>Arthur Haſilrige,</hi> Maſter <hi>Hamden,</hi> and Maſter <hi>Stroude.</hi>
+            </head>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>THat they have Trayterouſly endevoured to ſubvert the Fundamentall Lawes and Government of the Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> to deprive the King of Regall Power, and to place in his Subiects an Arbitrarie and Ty<g ref="char:EOLhyphen"/>rannicall Power over the Lives, Liberties, and Eſtates of his Maieſties Liege People.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>That they have Trayterouſly endevoured by many foule aſperſions upon his Maieſtie, and his Government, to alienate the affections of his People, and to make his Maieſtie odious to them.</p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>They have endevoured to draw his Maieſties late Armie to diſobedience of his Maieſties
+<pb facs="tcp:43247:3"/>Commands, and to ſide with them in their Trayterous Deſignes.</p>
+            </div>
+            <div n="4" type="article">
+               <head>IIII.</head>
+               <p>That they have Trayterouſly invited and en<g ref="char:EOLhyphen"/>couraged a Forraine Power to invade his Ma<g ref="char:EOLhyphen"/>ieſties Kingdome of <hi>England.</hi>
+               </p>
+            </div>
+            <div n="5" type="article">
+               <head>V.</head>
+               <p>That they have endevoured to ſubvert the Rights and very Being of Parliament.</p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>That for compleating their Trayterous De<g ref="char:EOLhyphen"/>fignes, they have endevoured, as farre as in them lay, by furce and terror to compell the Parlia<g ref="char:EOLhyphen"/>ment to ioyne with them in their Trayterous Deſignes; and to that end, have actually rayſed and countenanced Tumults againſt the King and Parliament.</p>
+            </div>
+            <div n="7" type="article">
+               <head>VII.</head>
+               <p>That they have Trayterouſly conſpired to levie, and have actually levied Warre againſt the King.</p>
+            </div>
+         </div>
+         <div type="charge">
+            <pb facs="tcp:43247:3"/>
+            <head>The Charge of the Impeachment of the Twelve <hi>BISHOPS.</hi>
+            </head>
+            <p>THE Houſe of the Lords was pleaſed, on the thirtieth of <hi>December,</hi> to ſend a Meſſage to the Houſe of Commons by Sir <hi>Iohn Banks,</hi> and Iudge <hi>Reeves,</hi> to deſire a preſent Conference, by a Commit<g ref="char:EOLhyphen"/>tee of both Houſes, touching matters of dange<g ref="char:EOLhyphen"/>rous and high conſequence.</p>
+            <p>And at the Conference, the Lord Keeper, in the name of the Houſe of Peeres delivered, as followeth:</p>
+            <p>That this Petition and Proteſtation of the twelve Biſhops, containing matters of high and dangerous conſequence, and ſuch as my Lords are verie ſenſible of, and ſuch as require a ſpeedy and ſuddaine Reſolution; it exten<g ref="char:EOLhyphen"/>ding to the deepe entrenching upon the Fun<g ref="char:EOLhyphen"/>damentall Priviledges and Being of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <pb facs="tcp:43247:4"/>
+            <p>Therefore the Lords have thought fit, that this matter, concerning the whole Parliament, may be communicated to the Houſe of Com<g ref="char:EOLhyphen"/>mons; it being a thing of ſo great and ſo gene<g ref="char:EOLhyphen"/>rall concernment.</p>
+            <p>This being thus communicated to the Houſe of Commons, they came to this Reſolution, To accuſe theſe 12 Biſhops of high Treaſon, for endeavouring to ſubvert the Fundamentall Laws, and Being of Parliaments.</p>
+            <p>And Maſter <hi>Glinne</hi> was ordered to goe to the Lords, and at their Barre, in the name of the Houſe of Commons, and all the Com<g ref="char:EOLhyphen"/>mons of <hi>England,</hi> to accuſe theſe twelve Pre<g ref="char:EOLhyphen"/>lates of High Treaſon, for endeavouring to ſubvert the Fundamentall Lawes of the Realm, and the very Being of Parliaments, manifeſted by preferring the Petition and Proteſtation; And to deſire the Lords that they may be forth<g ref="char:EOLhyphen"/>with ſequeſtred from Parliament, and put into ſafe cuſtody; and that their Lordſhips would appoynt a ſpeedy day for the Commons to Charge them, and they to anſwer, for that the Commons were ready to make good their Charge.</p>
+            <p>Hee was further ordered to give the Lords thanks, for communicating this Petition with ſo much affection and ſpeed, and for expreſſing their ſenſe thereof.</p>
+            <pb facs="tcp:43247:4"/>
+            <p>After Maſter <hi>Glin</hi> had delivered this at the Barre, the Lords ſent the Black Rod inſtantly, to finde out theſe Biſhop, and apprehend them: an by eight of the Clock at night they were all taken and brought upon their knees to the Bar, and ten of them committed to the Tower; and two (in regard of their Age, and indeed of the worthy parts of one of them, the learned Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Durham</hi>) were committed to the Black Rod.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
